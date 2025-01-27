@@ -125,15 +125,6 @@ Este proyecto es una aplicación sencilla que permite a los usuarios agregar nom
 
 ---
 
-## Posibles Mejoras
-
-1. **Eliminar Amigos**: Agregar una funcionalidad para eliminar nombres de la lista.
-2. **Estilo Visual**: Incluir un archivo CSS para mejorar el diseño.
-3. **Almacenamiento Persistente**: Usar LocalStorage para guardar los nombres ingresados.
-4. **Evitar Nombres Repetidos**: Implementar una validación que impida agregar nombres duplicados.
-
----
-
 ## Autor
 
 Proyecto desarrollado por Leandro Vivas.
